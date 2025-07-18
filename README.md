@@ -1,21 +1,19 @@
-<p align="left">
-  <img src="https://i.ibb.co/Hp2gmGrh/geh.jpg"  alt="Avatar" width="300px" align="right">
-  
+<div align="center">
+<h1> Oii, eu sou a Gessica!💜</h1> <br>
+<img src="https://github.com/Gessicabarth/Gessicabarth/raw/main/gehGuitHub.svg" alt="Avatar" width="380px" align="right">
+</div>
 
- <h1> Oii, eu sou a Gessica Barth!</h1> </b><br><br>
- 
-</p>
-  Estudante de Ciência da Computação (bacharelado), com foco em desenvolvimento front-end, design de interfaces e experiência do usuário. Me interessei pela área de tecnologia ao perceber a imensidão que ela representa: a possibilidade de olhar para algo e entender o que há por trás do que vemos — e mais do que isso, entender que vai muito além da superfície.
+ <br><br>
 
-Sempre me encantou a ideia de usar a tecnologia para resolver problemas de forma criativa, facilitando tarefas do dia a dia e criando soluções que realmente façam sentido para quem está do outro lado da tela.
-</p>
-
-<br>
-<br>
+  <p>Estudante de Ciência da Computação cursando o 4 semestre 😁.</p>
+  <p>Me interessei pela área de tecnologia ao perceber a imensidão que ela representa: a possibilidade de olhar para algo e entender o que há por trás do que vemos — e mais do que isso, entender que vai muito além da superfície.
+Sempre me encantou a ideia de usar a tecnologia para resolver problemas de forma criativa, facilitando tarefas do dia a dia e criando soluções que realmente façam sentido para quem está do outro lado da tela.</p>
 
 
+<br><br><br><br><br><br><br><br>
 
-### 🖥️ Tecnologias e Ferramentas que sei ou estou aprendendeo: 
+
+### 🖥️ Tecnologias e Ferramentas que tenho conhecimento: 
 <br>
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -37,13 +35,14 @@ Sempre me encantou a ideia de usar a tecnologia para resolver problemas de forma
 - 📩 [geh.barth@gmail.com](mailto:geh.barth@gmail.com)
 
 
----
+<br><br><br>
 
 
 <div>
   <a href="https://github.com/Gessicabarth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gessicabarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gessicabarth&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
 
