@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://i.ibb.co/Hp2gmGrh/geh.jpg"  alt="Avatar" width="300px" align="right">
+  
 
-<!--
-**Gessicabarth/Gessicabarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h1> Oii, eu sou a Gessica Barth!</h1> </b><br><br>
+ 
+</p>
+  Estudante de Ciência da Computação (bacharelado), com foco em desenvolvimento front-end, design de interfaces e experiência do usuário. Me interessei pela área de tecnologia ao perceber a imensidão que ela representa: a possibilidade de olhar para algo e entender o que há por trás do que vemos — e mais do que isso, entender que vai muito além da superfície.
 
-Here are some ideas to get you started:
+Sempre me encantou a ideia de usar a tecnologia para resolver problemas de forma criativa, facilitando tarefas do dia a dia e criando soluções que realmente façam sentido para quem está do outro lado da tela.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+
+
+### 🖥️ Tecnologias e Ferramentas que sei ou estou aprendendeo: 
+<br>
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title = "SQL Sever"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title = "Figma"/></code>
+
+<br><br><br>
+
+## 📫 Vamos conversar?
+
+- [LinkedIn](https://www.linkedin.com/in/gessica-barth)
+- [Portfólio GitHub](https://gessicabarth.github.io/meu-portfolio/index.html)
+- [Portfólio Notion](https://ablaze-stove-182.notion.site/Ol-eu-sou-a-Gessica-Barth-45932ff2081c4f0998eb60179ee28810)
+- 📩 [geh.barth@gmail.com](mailto:geh.barth@gmail.com)
+
+
+---
+
+
+<div>
+  <a href="https://github.com/Gessicabarth">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gessicabarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gessicabarth&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
