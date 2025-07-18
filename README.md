@@ -36,12 +36,20 @@ Sempre me encantou a ideia de usar a tecnologia para resolver problemas de forma
 
 <br>
 
-## 📫 Vamos conversar?
+## 💌 Meus contatos:
 
-- [LinkedIn](https://www.linkedin.com/in/gessica-barth)
-- [Portfólio GitHub](https://gessicabarth.github.io/meu-portfolio/index.html)
-- [Portfólio Notion](https://ablaze-stove-182.notion.site/Ol-eu-sou-a-Gessica-Barth-45932ff2081c4f0998eb60179ee28810)
-- 📩 [geh.barth@gmail.com](mailto:geh.barth@gmail.com)
+> 📬 **LinkedIn**  
+> [www.linkedin.com/in/gessica-barth](https://www.linkedin.com/in/gessica-barth)
+
+> 📁 **Portfólio no GitHub**  
+> [gessicabarth.github.io/meu-portfolio](https://gessicabarth.github.io/meu-portfolio/index.html)
+
+> 📝 **Portfólio Notion**  
+> [Acesse aqui](https://ablaze-stove-182.notion.site/Ol-eu-sou-a-Gessica-Barth-45932ff2081c4f0998eb60179ee28810)
+
+> 📧 **Email**  
+> [geh.barth@gmail.com](mailto:geh.barth@gmail.com)
+
 
 
 
