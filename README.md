@@ -25,7 +25,16 @@ Sempre me encantou a ideia de usar a tecnologia para resolver problemas de forma
 <code><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title = "SQL Sever"/></code>
 <code><img width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title = "Figma"/></code>
 
-<br><br><br>
+<br>
+
+<div>
+  <a href="https://github.com/Gessicabarth">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gessicabarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gessicabarth&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
+<br>
 
 ## 📫 Vamos conversar?
 
@@ -35,15 +44,7 @@ Sempre me encantou a ideia de usar a tecnologia para resolver problemas de forma
 - 📩 [geh.barth@gmail.com](mailto:geh.barth@gmail.com)
 
 
-<br><br><br>
 
-
-<div>
-  <a href="https://github.com/Gessicabarth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gessicabarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gessicabarth&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
 
 
 
