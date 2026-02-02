@@ -30,14 +30,15 @@
 
 <br>
 
-<div align="left">
-  <a href="https://github.com/Gessicabarth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gessicabarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gessicabarth&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
 
+### 📊 Minhas Estatísticas:
 <br>
+<div align="left">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gessicabarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gessicabarth&layout=compact&langs_count=16&theme=dracula" />
+</div>
+<br>
+
 
 ## 📫 Vamos conversar?
 
@@ -45,7 +46,7 @@
 👋 Eu respondo:
 
 ➡️ [LinkedIn](https://www.linkedin.com/in/gessica-barth)  
-➡️ [Portfólio no GitHub](https://gessicabarth.github.io/meu-portfolio/index.html)  
+➡️ [Portfólio](https://gessicabarth.github.io/meu-portfolio/index.html)  
 ➡️ [Portfólio Notion](https://ablaze-stove-182.notion.site/Ol-eu-sou-a-Gessica-Barth-45932ff2081c4f0998eb60179ee28810)  
 ➡️ [Email](mailto:geh.barth@gmail.com)
 
