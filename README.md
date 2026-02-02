@@ -5,7 +5,7 @@
 
  <br><br>
 
-  <p>Estudante de Ciência da Computação cursando o 4º semestre 😁.</p>
+  <p>Estudante de Ciência da Computação cursando o 5º semestre 😁.</p>
   <p>Me interessei pela área de tecnologia ao perceber a imensidão que ela representa: a possibilidade de olhar para algo e entender o que há por trás do que vemos — e mais do que isso, entender que vai muito além da superfície.
 Sempre me encantou a ideia de usar a tecnologia para resolver problemas de forma criativa, facilitando tarefas do dia a dia e criando soluções que realmente façam sentido para quem está do outro lado da tela.</p>
 
