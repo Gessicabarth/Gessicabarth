@@ -5,7 +5,7 @@
 
  <br><br>
 
-  <p>Estudante de Ciência da Computação cursando o 5º semestre 😁.</p>
+  <p>Estudante de Ciência da Computação cursando o 6º semestre 😁.</p>
   <p>Me interessei pela área de tecnologia ao perceber a imensidão que ela representa: a possibilidade de olhar para algo e entender o que há por trás do que vemos e compreender que vai muito além, é fascinante.</p>
 <p>Além do trabalho e estudos, valorizo os momentos simples com quem amo e as experiências que me fazem crescer. Sou curiosa, criativa e acredito que a tecnologia tem um grande poder de transformar o mundo de formas incríveis. Estou sempre buscando aprender mais, me aperfeiçoar e transformar ideias em realidade.</p>
 <p>Estou em busca de uma oportunidade como Desenvolvedora para construir minha carreira em tecnologia, seguir aprendendo, ganhar experiência prática e contribuir com projetos.</p>
